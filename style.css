@@ -1,0 +1,30 @@
+#inpStyle{
+   margin-top: 40px;
+}
+
+.header{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(216, 91, 79);
+    color: white;
+}
+
+.body{
+    background-color: rgb(240, 180, 180);
+}
+
+#inpText{
+    width: 300px;
+    height: 35px;
+}
+
+#list{
+font-weight: bolder;
+font-size: larger;
+padding-top:2%;
+padding-left: 28%;
+}
+
+.btn{
+    margin: 10px;
+}
